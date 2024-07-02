@@ -23,7 +23,7 @@ Andres Rios Tascon | Wintersession 2024 | Jan 24, 2024
 
 Navigate to the following link.
 
-https://github.com/ariostas/wintersession2024-cmake
+https://github.com/ariostas-talks/2024-01-24-wintersession-cmake
 
 <small>
 Click on Code > Codespaces > Create codespace on main.
